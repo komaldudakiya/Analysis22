@@ -1,2 +1,4 @@
 We are trying to append contents.
 New line.
+We are trying to append contents.
+New line.	
